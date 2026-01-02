@@ -53,9 +53,9 @@ Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Troqcoder-211\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcorexio\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Troqcoder-211\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcorexio\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -78,8 +78,8 @@ It is designed, reviewed, and evolved."
 
 ## 📫 Contact
 
-* 📧 Email: [nttroq2101@gmail.com](mailto:nttroq2101@gmail.com)
-* 🌐 GitHub: [https://github.com/Troqcoder-211](https://github.com/Troqcoder-211)
+* 📧 Email: [nttrong2101.work@gmail.com](mailto:nttrong2101.work@gmail.com)
+* 🌐 GitHub: [https://github.com/tcorexio](https://github.com/tcorexio)
 
 ---
 
