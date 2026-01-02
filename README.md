@@ -26,8 +26,8 @@ Java Backend Developer | Frontend Enthusiast
 ## ⚙️ Tech Stack
 
 ```text
-Backend     : Java (Spring Boot) | NestJs
-Frontend    : React | Next.js | MUI | HTML | CSS
+Backend     : Java (Spring Boot) | NestJs 
+Frontend    : React | Next.js | MUI | HTML | CSS | TailwindCSS
 Database    : MySQL | SQL Server | PostgreSQL
 Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
 ```
