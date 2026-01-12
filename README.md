@@ -31,6 +31,7 @@ Frontend    : React | Next.js | MUI | HTML | CSS | TailwindCSS
 Database    : MySQL | SQL Server | PostgreSQL
 Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
 ```
+![Profile views](https://komarev.com/ghpvc/?username=tcorexio&color=blueviolet)
 
 ---
 
