@@ -64,16 +64,6 @@ Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=tcorexio&theme=dark" 
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
-
 ---
 
 ## 🧪 Currently Improving
